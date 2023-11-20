@@ -3,11 +3,15 @@
 Secure IA se trata de una aplicación de seguridad que utiliza inteligencia artificial avanzada para brindar una seguridad óptima a los hogares al encontrarse conectada a una completa red de dispositivos que incluye cámaras, alarmas, sensores y detectores. La tecnología innovadora de Secure IA garantiza un entorno más seguro y proporciona tranquilidad a los residentes.
 
 # Autores
-Jimenez Melgar, Daniel Luciano
-Cossio Soto, Ernie Fabian
-Luza Carhuamaca, Jose Adrian
-Boronda Heidinger, Astrid Jimena
-Altamirano Saenz, Jorge Armando 
+- Jimenez Melgar, Daniel Luciano 
+
+- Cossio Soto, Ernie Fabian
+
+- Luza Carhuamaca, Jose Adrian
+
+- Boronda Heidinger, Astrid Jimena
+
+- Altamirano Saenz, Jorge Armando 
 
 # Segmentos Objetivo
 - Adultos Independientes
